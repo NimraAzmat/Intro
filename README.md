@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NimraAzmat
+- 👋 Hi, I’m @Nimra_Azmat
 - 👀 I’m interested in  CODING and MACHINE LEARNING
 - 🌱 I’m currently learning MACHINE LEARNING/AI
 
